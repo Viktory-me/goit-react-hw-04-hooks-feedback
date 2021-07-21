@@ -1,0 +1,2 @@
+(this["webpackJsonpgoit-react-hw-04-hooks-feedback"]=this["webpackJsonpgoit-react-hw-04-hooks-feedback"]||[]).push([[0],{11:function(t,e,c){"use strict";c.r(e);var n=c(0),o=c.n(n),i=c(3),r=c.n(i);c(8),c(9);var s=function(){},a=c(2);r.a.render(Object(a.jsx)(o.a.StrictMode,{children:Object(a.jsx)(s,{})}),document.getElementById("root"))},8:function(t,e,c){},9:function(t,e,c){}},[[11,1,2]]]);
+//# sourceMappingURL=main.4b6bba68.chunk.js.map
