@@ -37,11 +37,11 @@ function Counter() {
   return (
     <>
       <Section title='Please leave feedback'>
-        <FeedbackOptions options={feedback} onLeaveFeedback={this.setActiveItem} />{" "}
+        <FeedbackOptions options={feedback} onLeaveFeedback={setActiveItem} />{" "}
       </Section>
 
       <Section title='Statistics'>
-        {this.countTotalFeedback() === 0 ? (
+        {countTotalFeedback() === 0 ? (
           <Notification message='No feedback given'></Notification>
         ) : (
           <Statistic
