@@ -1,0 +1,10 @@
+.sectionContainer {
+  width: 500px;
+  padding: 20px 10px 20px 10px;
+  margin-bottom: 10px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  box-shadow: 20px 0 20px -20px #000 inset, -20px 0 20px -20px #000 inset;
+  background: #f0f0f0;
+}
